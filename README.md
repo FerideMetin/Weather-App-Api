@@ -1,3 +1,15 @@
+![Weather](https://github.com/FerideMetin/Weather-App-Api/blob/main/weather.png)
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
